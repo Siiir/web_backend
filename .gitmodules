@@ -1,0 +1,9 @@
+[submodule "Chatter"]
+	path = Chatter
+	url = git@github.com:Siiir/Chatter.git
+[submodule "java-licensing-service"]
+	path = java-licensing-service
+	url = git@github.com:Siiir/java-licensing-service.git
+[submodule "my_man_app"]
+	path = my_man_app
+	url = git@github.com:Siiir/my_man_app.git
