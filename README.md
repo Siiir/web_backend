@@ -1,7 +1,7 @@
 # web_backend
 an aggregation of my **web backend**s
 
-## Contests
+## Contents
 ### [Chatter project](https://github.com/Siiir/Chatter)
 #### Chat server on Java
 Serves chat messages to all chat clients that request them. Allows clients to post new messages and efficiently ping to see if a new message was posted.
